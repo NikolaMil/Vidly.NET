@@ -136,3 +136,6 @@ D:\Project\Vidly\Vidly\bin\Glimpse.AspNet.dll
 D:\Project\Vidly\Vidly\bin\Glimpse.Core.dll
 D:\Project\Vidly\Vidly\bin\Glimpse.EF6.dll
 D:\Project\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+D:\Project\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRentalAndProperties.resources
+D:\Project\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+D:\Project\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNumberAvailableEqualToNumberInStock.resources
