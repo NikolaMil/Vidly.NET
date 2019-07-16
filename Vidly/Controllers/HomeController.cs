@@ -1,4 +1,5 @@
-﻿using System.Runtime.InteropServices;
+﻿using System;
+using System.Runtime.InteropServices;
 using System.Web.Mvc;
 using System.Web.UI;
 
@@ -18,6 +19,7 @@ namespace IdentitySample.Controllers
         [Authorize]
         public ActionResult About()
         {
+
             ViewBag.Message = "Your app description page.";
 
             return View();

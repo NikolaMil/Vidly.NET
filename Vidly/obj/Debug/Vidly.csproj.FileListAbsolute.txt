@@ -139,3 +139,4 @@ D:\Project\Vidly\Vidly\bin\Glimpse.Mvc5.dll
 D:\Project\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRentalAndProperties.resources
 D:\Project\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
 D:\Project\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNumberAvailableEqualToNumberInStock.resources
+D:\Project\Vidly\Vidly\obj\Debug\Vidly.Migrations.FixingErrorsAddingMovie.resources
